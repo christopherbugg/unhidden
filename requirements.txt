@@ -1,0 +1,2 @@
+stem
+urllib3[socks]

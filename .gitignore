@@ -1,0 +1,5 @@
+database.db
+links.txt
+
+# Storage location for database samples
+samples/*
